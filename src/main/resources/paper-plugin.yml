@@ -1,0 +1,11 @@
+name: totemghostfix
+# Version matching build.gradle
+version: '0.0.2'
+# *** CORRECTED main class path ***
+main: com.yourdomain.totemghostfix.TotemGhostFix
+# API version for the server
+api-version: '1.21'
+# List of authors
+authors: [gaming]
+# Optional: Add a description
+description: Prevents totem ghosting by checking inventory on lethal damage.
